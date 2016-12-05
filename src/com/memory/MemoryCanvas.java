@@ -10,15 +10,6 @@ import java.util.List;
  */
 public class MemoryCanvas extends JPanel {
 
-    /**
-     * List with all the cards
-     */
-    private List<Card> cards;
-
-    /**
-     *
-     */
-    private Card selectedCard;
 
     /**
      *

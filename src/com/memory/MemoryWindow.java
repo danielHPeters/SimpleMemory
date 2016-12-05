@@ -7,6 +7,9 @@ import javax.swing.*;
  */
 public class MemoryWindow extends JFrame {
 
+    /**
+     *
+     */
     public MemoryWindow(){
 
     }

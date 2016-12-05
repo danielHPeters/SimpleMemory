@@ -23,6 +23,9 @@ public class Main {
         this.window = new MemoryWindow();
     }
 
+    /**
+     * Initializes the GUI
+     */
     public void initAndShowGui() {
         this.window.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         this.window.setSize(500, 500);

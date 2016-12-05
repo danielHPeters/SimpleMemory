@@ -22,6 +22,8 @@ public class Card {
 
     private boolean flipped;
 
+    private boolean removed;
+
     /**
      * Default constructor.
      * Sets name and image of card object
@@ -42,6 +44,26 @@ public class Card {
 
     public JButton getButton() {
         return this.button;
+    }
+
+    /**
+     *
+     * @param removed
+     */
+    public void setRemoved(boolean removed) {
+        this.removed = removed;
+    }
+
+    /**
+     *
+     * @return
+     */
+    public boolean isRemoved() {
+        return removed;
+    }
+
+    public void display(){
+
     }
 
     /**
