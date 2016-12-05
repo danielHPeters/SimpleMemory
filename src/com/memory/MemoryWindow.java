@@ -7,10 +7,8 @@ import javax.swing.*;
  */
 public class MemoryWindow extends JFrame {
 
-    private MemoryCanvas field;
+    public MemoryWindow(){
 
-    public MemoryWindow(MemoryCanvas field){
-        this.field = field;
     }
 
 }
