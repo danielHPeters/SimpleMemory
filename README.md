@@ -1,2 +1,2 @@
-# SimpleMemory
-A simple memory game
+# memory-game-java
+A simple memory game written in java. 
