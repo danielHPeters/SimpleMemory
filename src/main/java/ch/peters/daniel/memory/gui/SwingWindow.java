@@ -6,7 +6,7 @@ import java.awt.*;
 /**
  * Swing window implementation.
  *
- * @author Daniel Peters <daniel.peters.ch@gmail.com>
+ * @author Daniel Peters
  * @version 1.0
  */
 public class SwingWindow extends JFrame implements Window {

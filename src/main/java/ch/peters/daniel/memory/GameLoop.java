@@ -3,7 +3,7 @@ package ch.peters.daniel.memory;
 /**
  * GameLoop class.
  *
- * @author Daniel Peters <daniel.peters.ch@gmail.com>
+ * @author Daniel Peters
  * @version 1.0
  */
 public class GameLoop {
@@ -20,5 +20,4 @@ public class GameLoop {
       // Update gui and game logic.
     }
   }
-
 }
